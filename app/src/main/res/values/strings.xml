@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExAula05</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="quero_me_cadastrar">Quero me cadastrar</string>
+    <string name="data_nome">Em %s, %s diz:</string>
+    <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="enviar_gps">Enviar Localização</string>
+    <string name="enviar_foto">Enviar Foto</string>
+    <string name="cant_login">Não foi possível fazer o login</string>
+    <string name="msg_enviada">Mensagem enviada</string>
+    <string name="usuario_criado">Usuário criado com sucesso</string>
+    <string name="usuario_nao_criado">Ocorreu um erro</string>
+    <string name="no_gps_no_app">sem gps não funciona</string>
+    <string name="no_camera">sem camera</string>
+    <string name="empty_email">email vazio</string>
+</resources>
